@@ -16,7 +16,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="myBodyDate" options="" />
+      <module name="myBodyDate" options="-parameters" />
       <module name="spring-boot-swagger" options="-parameters" />
     </option>
   </component>

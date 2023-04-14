@@ -12,6 +12,14 @@
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+	<developers>
+		<developer>
+			<name>BENKHEDIR Maroua</name>
+		</developer>
+		<developer>
+			<name>HOCINE LHADJ Fatma</name>
+		</developer>
+	</developers>
 	<dependencies>
 		<!-- Swagger UI -->
 		<dependency>

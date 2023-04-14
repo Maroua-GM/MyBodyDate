@@ -20,3 +20,7 @@ permettant de gérer des traces et des historiques d'applications.
 
 Docker est une plateforme permettant de lancer 
 certaines applications dans des conteneurs logiciels
+
+***************JWT (JSON Web Token)*********
+
+JWT permet d’identifier le consommateur d’une API et de s’assurer qu’il possède les permissions nécessaires.
